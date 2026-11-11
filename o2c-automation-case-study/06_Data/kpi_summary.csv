@@ -1,3 +1,0 @@
-scenario,orders,avg_processing_hours,p90_processing_hours,oversell_rate,error_rate,avg_invoice_delay_hours,avg_invoice_delay_minutes
-AS_IS,5000,23.6452,42.884,0.086,0.0596,37.0503,2223.0
-TO_BE,5000,1.3587,2.2722,0.0084,0.0076,0.1125,6.7
